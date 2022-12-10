@@ -2,7 +2,7 @@
 
 This application is a budget tracker that allows you to keed track of transactions. It can function and save transaction even when there is no network connection. The application uses a social worker, a web manifest, and IndexedDB.
 
-https://infinite-earth-58928.herokuapp.com/
+After cloning repository, run npm i and then npm start. App will run on http://localhost:3001/
 
 ![image](https://user-images.githubusercontent.com/92134569/159199344-447de725-5516-4a7c-97e7-90725a8b34a1.png)
 
